@@ -7039,9 +7039,9 @@ svgo@^0.7.0:
     sax "~1.2.1"
     whet.extend "~0.9.9"
 
-sweetalert2@7.15.1:
-  version "7.15.1"
-  resolved "https://registry.yarnpkg.com/sweetalert2/-/sweetalert2-7.15.1.tgz#edd9bd4d5501b22e18755686a343c7afe3e9adb2"
+sweetalert2@7.20.8:
+  version "7.20.8"
+  resolved "https://registry.yarnpkg.com/sweetalert2/-/sweetalert2-7.20.8.tgz#dcd7ca703930577d5c0a2ee44281aff854cef88d"
 
 tailwindcss@0.4.3:
   version "0.4.3"
